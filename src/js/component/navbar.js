@@ -7,7 +7,7 @@ export const Navbar = () => {
 			<nav className="navbar navbar-light bg-dark">
 				<div className="d-flex">
 					<div>
-						<a className="navbar-brand" href="#">
+						<a className="navbar-brand" href="/">
 							<img
 								src="https://static-mh.content.disney.io/starwars/assets/navigation/sw_logo_stacked-336c62367939.png"
 								width="50%"
